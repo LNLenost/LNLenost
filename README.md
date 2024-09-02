@@ -1,25 +1,34 @@
-<h1 align="center">Welcome to my profile :D</h3>
-
+# 💫About Me :
 Hey there! I'm LNLenost, a 14 year old boy who loves retro gaming and modding consoles.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lnlenost&label=Profile%20views&color=0e75b6&style=flat" alt="lnlenost" /> </p>
+🔭 I’m currently working on NUSGet
 
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lnlenost" alt="lnlenost" /></a> </p>-->
+🌱 I’m currently learning Python
 
-- 🔭 I’m currently working on [NUSGet](https://github.com/NinjaCheetah/NUSGet)
+👯 I’m looking to collaborate on NUSGet
 
-- 🌱 I’m currently learning **Python**
+👨‍💻 All of my projects are available here
 
-- 👯 I’m looking to collaborate on [NUSGet](https://github.com/NinjaCheetah/NUSGet)
+💬 Ask me about Geometry Dash
 
-- 👨‍💻 All of my projects are available [here](https://github.com/LNLenost?tab=repositories)
+📫 Reach me via GBATemp
 
-- 💬 Ask me about: **Geometry Dash**
+⚡ Fun fact: I'm Italian
 
-- 📫 How to reach me: **via GBATemp**
+ 
 
-- ⚡ Fun fact: **I'm Italian**
+# 💻Tech Stack
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=LNLenost&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=LNLenost&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LNLenost&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lnlenost&show_icons=true&locale=en" alt="lnlenost" /></p>
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=LNLenost&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-Have a nice day/night :D
+### 😂Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=LNLenost&icon=0&color=0)](https://visitcount.itsvg.in)
