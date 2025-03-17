@@ -1,11 +1,11 @@
 # 💫 About Me
 Hey there! I'm LNLenost, a 14 year old boy who loves retro gaming and modding consoles.
 
-🔭 I’m currently working on NetPass' website and translating various projects in Italian
+🔭 I’m currently working on NetPass' website, WiiMart, and translating various projects in Italian
 
 🌱 I’m currently learning Python
 
-👯 I’m looking to collaborate on NetPass' website
+👯 I’m looking to collaborate on NetPass' website and WiiMart
 
 👨‍💻 All of my projects are available here on GitHub
 
