@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="Conta Alunni"/>
+        <attribute name="authors" value="LNLenost"/>
+        <attribute name="about" value="Inserimento N alunni con controllo N&gt;0 e sesso M/F. Conta e stampa maschi e femmine."/>
+        <attribute name="saved" value="2025-10-01 07:49:23 AM"/>
+        <attribute name="created" value="2025-10-01 07:49:23 AM"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="Dichiarazione e inizializzazione variabili"/>
+            <declare name="N, i, maschi, femmine" type="Integer" array="False" size=""/>
+            <declare name="sesso" type="String" array="False" size=""/>
+            <assign variable="maschi" expression="0"/>
+            <assign variable="femmine" expression="0"/>
+            
+            <comment text="Input N con controllo N &gt; 0"/>
+            <do expression="N &lt;= 0">
+                <output expression="&quot;Inserisci il numero di alunni N (N &gt; 0): &quot;" newline="True"/>
+                <input variable="N"/>
+                <if expression="N &lt;= 0">
+                    <then>
+                        <output expression="&quot;ERRORE: N deve essere maggiore di 0!&quot;" newline="True"/>
+                    </then>
+                    <else/>
+                </if>
+            </do>
+            
+            <comment text="Ciclo per inserimento alunni"/>
+            <for variable="i" start="1" end="N" direction="inc" step="1">
+                <output expression="&quot;--- Alunno numero &quot; &amp; i &amp; &quot; ---&quot;" newline="True"/>
+                
+                <comment text="Input sesso con controllo M o F"/>
+                <do expression="sesso != &quot;M&quot; AND sesso != &quot;F&quot;">
+                    <output expression="&quot;Inserisci sesso (M/F): &quot;" newline="True"/>
+                    <input variable="sesso"/>
+                    <if expression="sesso != &quot;M&quot; AND sesso != &quot;F&quot;">
+                        <then>
+                            <output expression="&quot;ERRORE: Inserisci M o F!&quot;" newline="True"/>
+                        </then>
+                        <else/>
+                    </if>
+                </do>
+                
+                <comment text="Conteggio maschi e femmine"/>
+                <if expression="sesso = &quot;M&quot;">
+                    <then>
+                        <assign variable="maschi" expression="maschi + 1"/>
+                    </then>
+                    <else>
+                        <assign variable="femmine" expression="femmine + 1"/>
+                    </else>
+                </if>
+            </for>
+            
+            <comment text="Stampa risultati"/>
+            <output expression="&quot;======================================&quot;" newline="True"/>
+            <output expression="&quot;           RISULTATI&quot;" newline="True"/>
+            <output expression="&quot;======================================&quot;" newline="True"/>
+            <output expression="&quot;Totale alunni: &quot; &amp; N" newline="True"/>
+            <output expression="&quot;Maschi: &quot; &amp; maschi" newline="True"/>
+            <output expression="&quot;Femmine: &quot; &amp; femmine" newline="True"/>
+            <output expression="&quot;======================================&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
