@@ -1,17 +1,14 @@
 # 💫 About Me
-Hey there! I'm LNLenost, a boy who loves retro gaming.
+Hey there! I'm LNLenost.
 
-🔭 I’m currently working on NetPass' website and translating various projects in Italian
 
-🌱 I’m currently learning Python
+🔭 I’m currently working on ViennaDotNet and translating various projects in Italian
 
-👯 I’m looking to collaborate on NetPass' website
+👯 Looking for people to collaborate on ViennaDotNet
 
-👨‍💻 All of my projects are available here on GitHub
+👨‍💻 All of my projects are available here on GitHub!
 
-📫 Reach me via Discord (@lnlenost)
-
-⚡ Fun fact: I'm Italian
+📫 Reach me via Discord or X (@lnlenost)
 
  
 # 💻 Tech Stack
